@@ -1,0 +1,11 @@
+#### 
+##      This is a list of things that gotta get done. 
+####
+#######
+
+
+* Get a reallu good photo for the landing page. 
+* put images where they gotta be. 
+* make sure everyone is on board with collaboration! (ongoing) 
+* get an HTML5+CSS-PHP email form submission system running 
+* link to Twitter and Facebook (who has admin for relevant accounts?) 
